@@ -1,1 +1,12 @@
+# Cisco SD-WAN Automation
 
+This project contains network automation scripts
+for Cisco SD-WAN infrastructure.
+
+## Modules
+
+1. Device Inventory
+2. BFD Monitoring
+3. OMP Route Monitoring
+4. TLOC Monitoring
+5. Configuration Backup
